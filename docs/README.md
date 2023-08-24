@@ -25,3 +25,5 @@ The following advanced CSS techniques are incorporated into the design:
 - CSS variables: 
 - Gradients: Implement gradients to add depth and dimension to your design.
 
+### Hosted at
+https://emansamyy.github.io/Virtual-Art-Gallery/
